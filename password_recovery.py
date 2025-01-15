@@ -42,7 +42,7 @@ def main():
     
     profiles_info = get_network_profiles(target_profiles) 
     print(profiles_info)
-    send_mail("tthhaannnnhhaann@gmail.com","aydv igkf jhlt vlaa",profiles_info)
+    send_mail("abcxyz.com","abccba",profiles_info)
     
 
 
